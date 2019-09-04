@@ -12,7 +12,6 @@ A demo app made on the top of [React](https://reactjs.org/docs/hooks-intro.html)
 
 
 ### So what! Where can I test?
-
 Here: [Online Demo](https://react-mobx-birdstore.netlify.com/) is hosted on Netlify.
 
 
@@ -26,6 +25,5 @@ Here: [Online Demo](https://react-mobx-birdstore.netlify.com/) is hosted on Netl
 
 
 ### Utilities:
-
-React App Rewired: https://github.com/timarney/react-app-rewired
-Customize CRA: https://github.com/arackaf/customize-cra
+1. React App Rewired: https://github.com/timarney/react-app-rewired
+2. Customize CRA: https://github.com/arackaf/customize-cra
